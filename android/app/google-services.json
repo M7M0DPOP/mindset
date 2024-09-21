@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492720233191",
+    "project_id": "mindset-6c43a",
+    "storage_bucket": "mindset-6c43a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492720233191:android:5d2ead6eb7e3738564e042",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnArhhLpuJcbup1Ypi7diO6q49Q1gNHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
